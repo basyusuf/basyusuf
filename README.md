@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there
+👋 I'm Yusuf Bas from Turkey.
 
-<!--
-**basyusuf/basyusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ I'm a software engineer.
 
-Here are some ideas to get you started:
+🤔 I’m currently learning Full-Stack Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m looking to collaborate on Open-source Projects.
+
+📫 Ask me about React,NodeJS and Laravel.
+
+| <img src="https://github-readme-stats.vercel.app/api?username=basyusuf&show_icons=true&theme=vue&include_all_commits=true" alt="itsalb3rt" />	| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basyusuf&layout=compact&theme=vue&langs_count=10&hide=java,c%2b%2b,html,tsql,shell" alt="itsalb3rt" />	|
+|---	                                                                                                                  |---	                                       
