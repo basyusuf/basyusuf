@@ -3,11 +3,11 @@
 
 ⚡ I'm a software engineer.
 
-🤔 I’m currently work Back-End Development.
+🤔 I’m currently work Full Stack Development.
 
 🔭 I’m looking to collaborate on Open-source Projects.
 
-📫 Ask me about JavaScript,TypeScript and AWS.
+📫 Ask me about JavaScript,TypeScript, NodeJS, React and AWS.
 
 ### Recent Posts
 - [Singleton Design Pattern nedir?](https://basyusuf.medium.com/singleton-design-pattern-nedir-6db588ebfc67)
